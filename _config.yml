@@ -20,7 +20,7 @@ title                    : "Eternitylsh 개발 블로그"
 title_separator          : "-"
 subtitle                 : "각종 연습한 인공지능 및 개발 공유" # site tagline that appears below site title in masthead
 name                     : "Mr. Lee"
-description              : "An amazing website."
+description              : "해보았던 인공지능 및 개발 실패 및 여러모로 가치 있는것들 공유를 해보자."
 url                      : "https://eternitylsh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "eternitylsh/eternitylsh.github.io"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "E Creator"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "여러모로 그 **하나** 를 만들기 위해 노력하는 자"
+  location         : "United of K..."
+  email            : eternialsh32@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
