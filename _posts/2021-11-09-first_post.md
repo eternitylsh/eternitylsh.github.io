@@ -12,6 +12,5 @@ title:  "기념하는 첫 깃헙블로그 포스팅. 음"
 이후의 블로그로써의 포스팅 및 개발 포트폴리오 각종 업로드 등이 기대됨.
 
 
-
-![blue_bird_logo.png](..\..\..\INTEL ICT AI앱웹과정\10_20_21_자유주제프로젝트1\포트폴리오자료\blue_bird_logo.png)
-제틀러 테스터테스터....
+![blue_bird_logo.png](../images/blue_bird_logo.png "blue_bird_logo.png")
+제틀러 테스터테스터.…
