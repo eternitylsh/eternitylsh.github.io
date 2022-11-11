@@ -1,0 +1,7 @@
+--- ex1
+layout: single
+title:  "시험삼아 짜본 파이썬 간단 예제"
+categories: jupyter
+tag: [python, blog, jupyter]
+toc: true
+author_profile: false
