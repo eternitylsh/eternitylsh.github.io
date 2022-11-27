@@ -15,24 +15,24 @@
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Eternitylsh 개발 블로그"
-title_separator          : "-"
-subtitle                 : "각종 연습한 인공지능 및 개발 공유" # site tagline that appears below site title in masthead
+locale                   : "ko-KR"
+title                    : "EL개발블로그"
+title_separator          : "|"
+subtitle                 : "Eternitylsh의 각종 연습한 인공지능 및 개발 공유" # site tagline that appears below site title in masthead
 name                     : "Mr. Lee"
 description              : "해보았던 인공지능 및 개발 실패 및 여러모로 가치 있는것들 공유를 해보자."
 url                      : "https://eternitylsh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "eternitylsh/eternitylsh.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+logo                     : "/assets/images/logo_icon.png"
+masthead_title           : "E Creator Title" # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "Eternitylsh Develop Blog"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -287,6 +287,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      show_date: true
+
+date_format: "%Y-%m-%d"
