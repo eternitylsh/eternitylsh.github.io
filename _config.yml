@@ -26,13 +26,13 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "eternitylsh/eternitylsh.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_icon.png"
-masthead_title           : "E Creator Title" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "E Creator 개발블로그" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "Eternitylsh Develop Blog"
+    shortname            : "EL_DevelopBlog"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
