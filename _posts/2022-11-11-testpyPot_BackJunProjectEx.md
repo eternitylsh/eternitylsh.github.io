@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "자신나름의 포트폴리오"
-categories: jupyter
+categories: Coding
 tag: [python, blog, jupyter]
 toc: true
 author_profile: false
