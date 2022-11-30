@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "이직률 분석에 사용한 회귀분석"
-categories: coding
+categories: jupyter
 tag: [python, blog, jupyter]
 toc: true
 author_profile: false

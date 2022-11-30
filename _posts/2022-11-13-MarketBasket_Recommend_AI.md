@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "KNN모델로 장바구니 추천해보기"
-categories: coding
+categories: jupyter
 tag: [python, blog, jupyter]
 toc: true
 author_profile: false
