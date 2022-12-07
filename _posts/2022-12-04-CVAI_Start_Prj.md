@@ -2,7 +2,7 @@
 layout: single
 title:  "컴퓨터 비전 준비운동하기"
 categories: jupyter
-tag: [python, blog, jupyter]
+tag: [python, blog, jupyter, opencv]
 toc: true
 author_profile: false
 ---
@@ -339,7 +339,8 @@ cv2.destroyAllWindows()
 - 이미지의 여러 부분에 색상을 확인해 보세요.
 - 이미지의 색상 강도를 표현하는 방법을 확인해 보세요.
 
-<img src="[Dataset] Module 20 images/image001.png" alt="Drawing" style="width: 400px; border:1px solid; float:left;"/>
+![Drawing](../assets/images/image001.jpg)
+<!-- <p><img src="../assets/images/image001.png" alt="Drawing" style="width: 400px; border:1px solid; float:left;"/></p> -->
 <div style="clear: both;"></div>
 
 아래 이미지를 이용하여 직접 확인해 보세요!
@@ -693,7 +694,8 @@ plt.show()
 
 아래 그림을 살펴봅시다.
 
-<img src="[Dataset] Module 20 images/image001_masking.jpg" />
+![Drawing](../assets/images/image001_masking.jpg)
+<!-- <img src="../assets/images/image001_masking.jpg" /> -->
 
 위의 이미지(가운데)에서 오른쪽 상단 모서리에 파란색 사각형에 대한 마스크를 볼 수 있습니다. 해당 마스크(가운데 이미지)를 원본 이미지(왼쪽 이미지)에 적용하면 마스크된 이미지(오른쪽 이미지)에 파란색 사각형만 남습니다.
 
@@ -721,7 +723,8 @@ cv2.destroyAllWindows()
 
 회색조 이미지는 작업하기에 가장 좋은 이미지는 아닐 것입니다. 원본 이미지가 있음을 기억하십시오.
 
-<img src="[Dataset] Module 20 images/image001.png" alt="Drawing" style="width: 400px; border:1px solid; float:left;"/>
+![Drawing](../assets/images/image001.jpg)
+<!-- <img src="../assets/images/image001.png" alt="Drawing" style="width: 400px; border:1px solid; float:left;"/> -->
 <div style="clear: both;"></div>
 
 **기술 2: 색상.**<br />
@@ -1273,7 +1276,8 @@ plt.show()
 
 예를 들어 아래 이미지에 흰색 영역이 몇 개 있다고 생각하십니까?
 
-<img src="[Dataset] Module 20 images/image001_3contours.png" style="width:400px; float:left;" />
+![](../assets/images/image001_3contours.jpg)
+<!-- <img src="../assets/images/image001_3contours.png" style="width:400px; float:left;" /> -->
 <div style="clear: both;"></div>
 
 3개의 윤곽선이 감지되었다고 생각하셨습니까? 그러면 해당 이미지를 로드하고 윤곽선을 그려 보겠습니다.
@@ -1316,7 +1320,8 @@ print("There are "+str(len(cnts))+" contours!")         # 감지된 윤곽 수�
 
 원본 이미지에서는 몇 개의 윤곽선이 감지될 것으로 예상하십니까?
 
-<img src="[Dataset] Module 20 images/image001_allcontours.png" style="width:400px; float:left;" />
+![Drawing](../assets/images/image001_allcontours.jpg)
+<!-- <img src="../assets/images/image001_allcontours.png" style="width:400px; float:left;" /> -->
 <div style="clear:both;"></div>
 
 
