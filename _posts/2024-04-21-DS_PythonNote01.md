@@ -4533,7 +4533,7 @@ echo_test()
 
 <p>python 3.3 버전부터는 <code>__init__.py</code> 파일이 없어도 패키지로 인식한다(<a class="wiki_link" data-title="PEP" data-wiki="/page/wiki/PEP" href="javascript:void(0)">PEP</a> 420). 하지만 하위 버전 호환을 위해 <code>__init__.py</code> 파일을 생성하는 것이 안전한 방법이다.</p>
 
-</blockquot
+</blockquote>
 
 - 또한, **init**.py 파일은 패키지와 관련된 설정이나 초기화 코드를 포함할 수 있다. 다양한 방법으로 활용할 수 있다.e>
 
