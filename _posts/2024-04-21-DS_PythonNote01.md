@@ -245,7 +245,7 @@ len(a)
 
 a = "Life is too short, You need Python"
 
-![a data res](./res/02_2_indexing.png)
+![a data res](../images/PyNote01_files/02_2_indexing.png)
 
 ```python
 a = "Life is too short, You need Python"
@@ -409,7 +409,7 @@ print("%%f는 %f처럼 소숫점을 담을 수 있는데, 단순히 %%s는 %.8s�
 
 왼쪽 정렬
 
-![image.png](attachment:be0b811e-f6c8-4595-a894-94f48ba01d6c.png)
+![image.png](../images/PyNote01_files/8cd68d0e-ba3a-41ce-b160-2b2121c6b24a.png)
 
 ```python
 print("%10s" % "hi")
@@ -2679,9 +2679,9 @@ add(3, 4)
 
 ### 매개변수와 인수
 
-- 매개변수와 인수는 혼용  
-   - 매개변수 : 함수에 입력으로 전달된 값을 받는 변수  
-   - 인수 : 함수를 호출할 때 전달하는 입력값
+- 매개변수와 인수는 혼용
+  - 매개변수 : 함수에 입력으로 전달된 값을 받는 변수
+  - 인수 : 함수를 호출할 때 전달하는 입력값
 
 ### 입력값과 리턴값에 따른 함수의 형태
 
