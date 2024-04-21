@@ -1876,20 +1876,21 @@ else:
         </tr>
     </tbody>
 </table>
-
+  
 <hr/>
-
+  
 ```python
 x,y = 3, 2
 
 print(f'x={x} y={y} 일때..')
-print('x <  y : ', x < y )
-print('x >  y : ', x > y )
+print('x < y : ', x < y )
+print('x > y : ', x > y )
 print('x == y : ', x == y )
 print('x != y : ', x != y )
 print('x >= y : ', x <= y )
 print('x <= y : ', x <= y )
-```
+
+````
 
     x=3 y=2 일때..
     x <  y :  False
@@ -1907,7 +1908,7 @@ if 3000 <= money:
     print('you recommend in texi!')
 else:
     print('you recommend go to walk')
-```
+````
 
     How many have you money?
 
