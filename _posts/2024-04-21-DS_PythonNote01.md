@@ -338,7 +338,7 @@ print( a, '>>', t )
     Pithon >> Python
 
 <span style="color: orange; font-size: 1.2rem;">문자열은 낱개로 변경불가능한 자료형.</span>  
-![image.png](attachment:6ad6e471-94fd-481c-82b9-895ddb9ec666.png)
+![image.png](../../images/PyNote01_files/6ad6e471-94fd-481c-82b9-895ddb9ec666.png)
 
 ### 문자열 포메팅
 
@@ -425,7 +425,7 @@ print("%-10sjane" % "hi")
 
 #### 소수점 표현하기
 
-![image.png](attachment:f4229b2e-c981-4cc3-bba1-8d8dc35f2c86.png)
+![image.png](../../images/PyNote01_files/f4229b2e-c981-4cc3-bba1-8d8dc35f2c86.png)
 
 ```python
 # import math
@@ -1075,7 +1075,7 @@ t1 = (1,2,'a','b')
 del t1[0]
 ```
 
-![image.png](attachment:0de9aec2-6635-4d25-8231-ec63207c7902.png)
+![image.png](../../images/PyNote01_files/0de9aec2-6635-4d25-8231-ec63207c7902.png)
 
 #### 튜플 요소값 변경?
 
@@ -1084,7 +1084,7 @@ del t1[0]
 t1[0] = 'c'
 ```
 
-![image.png](attachment:f3dd42b8-7f12-499e-9234-5280310ca3bb.png)
+![image.png](../images/PyNote01_files/f3dd42b8-7f12-499e-9234-5280310ca3bb.png.png)
 
 ### 튜플 다루기
 
