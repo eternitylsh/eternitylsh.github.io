@@ -1877,6 +1877,8 @@ else:
     </tbody>
 </table>
 
+<hr/>
+
 ```python
 x,y = 3, 2
 
