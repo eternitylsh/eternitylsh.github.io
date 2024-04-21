@@ -1084,7 +1084,7 @@ del t1[0]
 t1[0] = 'c'
 ```
 
-![image.png](../images/PyNote01_files/f3dd42b8-7f12-499e-9234-5280310ca3bb.png.png)
+![image.png](../../images/PyNote01_files/f3dd42b8-7f12-499e-9234-5280310ca3bb.png.png)
 
 ### 튜플 다루기
 
@@ -2382,7 +2382,7 @@ for i, j, k in zip(a, b, c):
 <hr>
 - 다음 문제를 for, if를 통해 풀어보기
 
-![image.png](attachment:7a23da3c-9473-4ced-a5d5-5ed22d42a98c.png)
+![image.png](../../images/PyNote01_files/7a23da3c-9473-4ced-a5d5-5ed22d42a98c.png)
 
 ```python
 #총 5명의 학생이 시험을 보았는데 시험 점수가 60점 이상이면 합격이고 그렇지 않으면 불합격이다. 합격인지, 불합격인지 결과를 보여 주시오.
@@ -2685,7 +2685,7 @@ add(3, 4)
 
 ### 입력값과 리턴값에 따른 함수의 형태
 
-![image.png](attachment:23c71d40-aa25-4e50-ba14-f29ce2c14a5a.png)
+![image.png](../../images/PyNote01_files/23c71d40-aa25-4e50-ba14-f29ce2c14a5a.png)
 
 #### 일반적인 함수
 
@@ -3015,7 +3015,7 @@ print(result)
 
 ## 사용자 입출력
 
-![image.png](attachment:55caefbd-8702-49fd-8270-59924b59d788.png)
+![image.png](../../images/PyNote01_files/55caefbd-8702-49fd-8270-59924b59d788.png)
 
 ### 사용자 입력 활용
 
@@ -3531,7 +3531,7 @@ class Cookie:
 
 #### 어떻게 만들지 먼저 구상하기
 
-![image.png](attachment:0335fd6a-81bc-48f1-b84f-a1d0f636d678.png)
+![image.png](../../images/PyNote01_files/0335fd6a-81bc-48f1-b84f-a1d0f636d678.png)
 
 #### 클래스 구조 만들기
 
@@ -4408,7 +4408,7 @@ print(a)
 
 - python 문서보니...  
    **init**() 에서는 절대 return을 남기면 안된다고 한다. org...
-  ![image.png](attachment:5b79435a-7b2e-40af-b02b-d4d0ba7da003.png)
+  ![image.png](../../images/PyNote01_files/5b79435a-7b2e-40af-b02b-d4d0ba7da003.png)
 
 ### 다른 파일에서 모듈 불러오기
 
@@ -4692,7 +4692,7 @@ echo.echo_test()
 
 - \*로 모두 긁어와도 아래처럼 인식이 안될 수 잇음.
 
-![image.png](attachment:e2530a59-3e93-4bb8-a2c3-66c85e3fd9b9.png)
+![image.png](../images/PyNote01_files/e2530a59-3e93-4bb8-a2c3-66c85e3fd9b9.png)
 
 - 이 경우 \_\_init\_\_.py 에 \_\_all\_\_ 로 정의해야 가능하다.
 
