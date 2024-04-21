@@ -1889,6 +1889,9 @@ else:
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 <hr/>
 
@@ -1932,48 +1935,42 @@ else:
 #### and, or, not
 
 <table style="float:left; font-size: 1.2rem;">
-
-<thead>
-
-<tr>
-
-<th>연산자</th>
-
-<th>설명</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>x or y</td>
-
-<td>x와 y 둘 중 하나만 참이어도 참이다.</td>
-
-</tr>
-
-<tr>
-
-<td>x and y</td>
-
-<td>x와 y 모두 참이어야 참이다.</td>
-
-</tr>
-
-<tr>
-
-<td>not x</td>
-
-<td>x가 거짓이면 참이다.</td>
-
-</tr>
-
-</tbody>
-
+    <thead>
+        <tr>
+            <th>연산자</th>
+            <th>설명</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>x or y</td>
+            <td>x와 y 둘 중 하나만 참이어도 참이다.</td>
+        </tr>
+        <tr>
+            <td>x and y</td>
+            <td>x와 y 모두 참이어야 참이다.</td>
+        </tr>
+        <tr>
+            <td>not x</td>
+            <td>x가 거짓이면 참이다.</td>
+        </tr>
+    </tbody>
 </table>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ```python
 # 돈이 3000원 이상 있거나 카드가 있다면 택시를 타고 가고, 그렇지 않으면 걸어가라.
@@ -3064,56 +3061,27 @@ for j in range(10):
 
 ## 파일 읽고 쓰기
 
-<head>
-    <style>
-        table {
-            float: center;
-            font-size: 1.2rem;
-        }
-    </style>
-</head>
-<table>
-
-<thead>
-
-<tr>
-
-<th>파일열기모드</th>
-
-<th>설명</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>r</td>
-
-<td>읽기 모드: 파일을 읽기만 할 때 사용한다.</td>
-
-</tr>
-
-<tr>
-
-<td>w</td>
-
-<td>쓰기 모드: 파일에 내용을 쓸 때 사용한다.</td>
-
-</tr>
-
-<tr>
-
-<td>a</td>
-
-<td>추가 모드: 파일의 마지막에 새로운 내용을 추가할 때 사용한다.</td>
-
-</tret>>
-
-</tbody>
-
+<table style="float:left; font-size: 1.2rem;">
+    <thead>
+        <tr>
+            <th>파일열기모드</th>
+            <th>설명</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>r</td>
+            <td>읽기 모드: 파일을 읽기만 할 때 사용한다.</td>
+        </tr>
+        <tr>
+            <td>w</td>
+            <td>쓰기 모드: 파일에 내용을 쓸 때 사용한다.</td>
+        </tr>
+        <tr>
+            <td>a</td>
+            <td>추가 모드: 파일의 마지막에 새로운 내용을 추가할 때 사용한다.</td>
+        </tr>
+    </tbody>
 </table>
 
 <fieldset>
