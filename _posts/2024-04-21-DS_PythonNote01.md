@@ -1843,71 +1843,38 @@ else:
 #### 비교연산자
 
 <table style="float:left; font-size: 1.2rem;">
-
-<thead>
-
-<tr>
-
-<th>비교연산자</th>
-
-<th>설명</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td>x &lt; y</td>
-
-<td>x가 y보다 작다.</td>
-
-</tr>
-
-<tr>
-
-<td>x &gt; y</td>
-
-<td>x가 y보다 크다.</td>
-
-</tr>
-
-<tr>
-
-<td>x == y</td>
-
-<td>x와 y가 같다.</td>
-
-</tr>
-
-<tr>
-
-<td>x != y</td>
-
-<td>x와 y가 같지 않다.</td>
-
-</tr>
-
-<tr>
-
-<td>x &gt;= y</td>
-
-<td>x가 y보다 크거나 같다.</td>
-
-</tr>
-
-<tr>
-
-<td>x &lt;= y</td>
-
-<td>x가 y보다 작거나 같다.</td>
-
-</tr>
-
-</tbody>
-
+    <thead>
+        <tr>
+            <th>비교연산자</th>
+            <th>설명</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>x &lt; y</td>
+            <td>x가 y보다 작다.</td>
+        </tr>
+        <tr>
+            <td>x &gt; y</td>
+            <td>x가 y보다 크다.</td>
+        </tr>
+        <tr>
+            <td>x == y</td>
+            <td>x와 y가 같다.</td>
+        </tr>
+        <tr>
+            <td>x != y</td>
+            <td>x와 y가 같지 않다.</td>
+        </tr>
+        <tr>
+            <td>x &gt;= y</td>
+            <td>x가 y보다 크거나 같다.</td>
+        </tr>
+        <tr>
+            <td>x &lt;= y</td>
+            <td>x가 y보다 작거나 같다.</td>
+        </tr>
+    </tbody>
 </table>
 
 ```python
